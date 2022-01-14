@@ -15,4 +15,5 @@ My work statistical learning is on developing novel model-based clustering clust
 Contact Info
 ======
 801 Mass Avenue, Crosstown 3rd floor, Boston, MA 02118
+
 Email: yuanf at bu dot edu
