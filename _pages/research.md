@@ -1,202 +1,44 @@
 ---
 permalink: /research/
-title: "Research Projects"
+title: "Research Interest"
 author_profile: true
 redirect_from: 
   - /research/
   - /research.html
 ---
 
-## Locations of key files/directories
+## Health Outcomes and Biomarkers
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+### Duchenne muscular dystrophy
 
-## Tips and hints
+[Duchenne muscular dystrophy (DMD)](https://www.parentprojectmd.org/about-duchenne/what-is-duchenne/about-duchenne-and-becker/) is X-linked, genetic disorder caused due to defects in the DMD gene, leading to abnormal dystrophin. 
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* We modeled the variability in DMD persons disease trajectories, identified three groups of early age DMD motor trajectories, with the moderate progression group showing the largest steroid effect.
+* We aim to build prognostic models on both natural history and clinical trial data for the DMD boys to predict future trajectories using statistical/machine learning algorithms.
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+### Dementia, cognitive impairment, and Alzheimer's disease 
 
-## Markdown guide
+Dementia is multifactorial in etiology. [Alzheimer's disease (AD)](https://www.cdc.gov/aging/aginginfo/alzheimers.htm), the most prevalent dementia, is characterized by proteinopathies (amyloid-beta peptide (A$\beta$), pathologic tau) and neurodegeneration.
 
-### Header three
+* Aging immune cells:
+  * We investigated association between immune-related biomarkers and cognitive aging outcomes, identified several easily obtained blood-based biomarkers and some protein biomarkers related to innate and adaptive immune cells that associated with worse cognitive testing performance, smaller total or regional brain volumes, and higher risk of incident dementia.
+  * We are working on to identify circulating immune cell phenotypes in the pro-inflammatory and regulatory pathways that are risk factors for incident cognitive aging outcomes.
+  * We aim to investigate whether the cognitive-outcome related immune cell phenotypes identified are associated with vascular factors known to increase susceptibility to cognitive aging.
 
-#### Header four
+* Cognitive trajectories:
+  * We aim to model the heterogeneity and to identify patterns of cognitive trajectories across multiple domains.
+  * We will use the comprehensive yet complex Neuropsycological testing measures as well as global factor measure for each cognitive domain using statistical/machine learning techniques. 
+  * We aim to identify a more effective measure of cognitive function for each domain, in the sense that the subgroup of cognitive trajectories identified are more homogeneous and stable.
+  * We will investigate the association between risk factors for incident cognitive aging outcomes and the subclasses identified.
 
-##### Header five
+## Statistical Learning
 
-###### Header six
+I develop new mixture models (and software) for cluster and classification analysis. Clustering can help with understanding which data observations are more similar to each other, and which are not. Data points similar to each other are grouped in a cluster together. Hence latent patterns or heterogeneity in the data can be revealed. I have a special interest in non-standard (non-Gaussian) data, specifically, compositional data. 
 
-## Blockquotes
+* One important example of compositional data is the microbiome taxa count data obtained from RNAseq. The absolute counts do not provide much information due to potential difference in sequencing depth. Hence, the microbime taxa count can only reveal relative abundance -- viewing it as a whole (or using a mathematical term as ``on a simplex'') makes more sense.
+* We deveolop algorithms to cluster human microbiota composition: 
+  * An R package has been developed to model and cluster microbiom data, which substantially lifted the heavy computational overhead in previous methods: [LNMVGA](https://github.com/yuanfang90/LNMVGA).
+  * We are building mixture of regression models, hoping that other biomarkers could be taken into account when clustering microbiome data, so that we obtained more robust and more homogenous clusters.
+  * We will extend the mixture of regression model to longitudinal settings so that change of micriobiom compositions can be model while patterns of changing trajectories could be studied.
 
-Single line blockquote:
 
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
