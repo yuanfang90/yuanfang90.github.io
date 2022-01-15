@@ -8,14 +8,14 @@ author_profile: true
 
 ### Duchenne muscular dystrophy
 
-[Duchenne muscular dystrophy (DMD)](https://www.parentprojectmd.org/about-duchenne/what-is-duchenne/about-duchenne-and-becker/) is X-linked, genetic disorder caused due to defects in the DMD gene, leading to abnormal dystrophin. 
+[Duchenne muscular dystrophy (DMD)](https://www.parentprojectmd.org/about-duchenne/what-is-duchenne/about-duchenne-and-becker/) is X-linked, genetic disorder caused due to defects in the DMD gene, leading to abnormal dystrophin. I joined [Dr. Utkarsh Dang](https://sites.google.com/view/utkarshdang/home?authuser=0)'s research team on modeling DMD progression heterogeneity prior my post-doc fellowship started, acted as a data analyst. I'm still in collaboration with this team.
 
 * We modeled the variability in DMD persons disease trajectories, identified three groups of early age DMD motor trajectories, with the moderate progression group showing the largest steroid effect.
 * We aim to build prognostic models on both natural history and clinical trial data for the DMD boys to predict future trajectories using statistical/machine learning algorithms.
 
 ### Dementia, cognitive impairment, and Alzheimer's disease 
 
-Dementia is multifactorial in etiology. [Alzheimer's disease (AD)](https://www.cdc.gov/aging/aginginfo/alzheimers.htm), the most prevalent dementia, is characterized by proteinopathies (amyloid-beta peptide (A$\beta$), pathologic tau) and neurodegeneration.
+Dementia is multifactorial in etiology. [Alzheimer's disease (AD)](https://www.cdc.gov/aging/aginginfo/alzheimers.htm), the most prevalent dementia, is characterized by proteinopathies (amyloid-beta peptide (A$\beta$), pathologic tau) and neurodegeneration. Along with a multidisciplinary research team led by [Dr. Lunetta](https://www.bu.edu/sph/profile/kathryn-lunetta/) and [Dr. Murabito](https://www.bumc.bu.edu/busm/profile/joanne-murabito/), we are working on the following projects.
 
 * Aging immune cells:
   * We investigated association between immune-related biomarkers and cognitive aging outcomes, identified several easily obtained blood-based biomarkers and some protein biomarkers related to innate and adaptive immune cells that associated with worse cognitive testing performance, smaller total or regional brain volumes, and higher risk of incident dementia.
