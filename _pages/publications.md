@@ -17,3 +17,10 @@ author_profile: true
 
 ### In Preparation 
 
+* **Fang, Y.**, MacDonald, C., Clemens, P., Gordish-Dressman, H., Hoffman, E., and Dang, U., ``Modeling early heterogeneous rates of progression in Duchenne muscular dystrophy boys''.
+
+* **Fang, Y.**, Doyle, M., Alosco, M., Mez, J., Satizabal, C., Qiu, W., Lunetta, K., and Murabito, J., ``Association between protein biomarkers with cognitive aging ''.
+
+* Franczak, B., **Fang, Y.**, and Subedi, S. ``Bayesian parameter estimation for mixtures of shifted asymmetric Laplace distributions''.
+
+* Dai, W., **Fang, Y.**, Subedi, S., ``Variational Gaussian approximation to finite mixtures of logistic normal multinomial regression models''.
