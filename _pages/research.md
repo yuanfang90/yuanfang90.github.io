@@ -1,10 +1,11 @@
 ---
 permalink: /research/
 title: "Research Interest"
+excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
-  - /research/
-  - /research.html
+  - "/research/"
+  - "/research.html""
 ---
 
 ## Health Outcomes and Biomarkers
