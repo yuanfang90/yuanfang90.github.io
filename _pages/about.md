@@ -31,4 +31,4 @@ I received my PhD in Statistics from the [Department of Mathematical Sciences](h
   Department of Biostatistics<br /> Boston University School of Public Health<br /> 801 Mass Avenue, Crosstown 3rd floor<br /> Boston, MA 02118
 </address>
 
-Email: yuanf at bu dot edu
+Email: yuanf@bu.edu
