@@ -15,7 +15,7 @@ author_profile: true
 
 ### Dementia, cognitive impairment, and Alzheimer's disease 
 
-Dementia is multifactorial in etiology. [Alzheimer's disease (AD)](https://www.cdc.gov/aging/aginginfo/alzheimers.htm), the most prevalent dementia, is characterized by proteinopathies (amyloid-beta peptide (A$\beta$), pathologic tau) and neurodegeneration. Along with a multidisciplinary research team led by [Dr. Lunetta](https://www.bu.edu/sph/profile/kathryn-lunetta/) and [Dr. Murabito](https://www.bumc.bu.edu/busm/profile/joanne-murabito/), we are working on the following projects.
+Dementia is multifactorial in etiology. [Alzheimer's disease (AD)](https://www.cdc.gov/aging/aginginfo/alzheimers.htm), the most prevalent dementia, is characterized by proteinopathies (amyloid-beta peptide (A$\beta$), pathologic tau) and neurodegeneration. Along with a multidisciplinary research team led by [Dr. Lunetta](https://www.bu.edu/sph/profile/kathryn-lunetta/) and [Dr. Murabito](https://www.bumc.bu.edu/busm/profile/joanne-murabito/), we are working on the following projects in the [Framingham Offspring Study (FHS)](https://framinghamheartstudy.org/).
 
 * Aging immune cells:
   * We investigated association between immune-related biomarkers and cognitive aging outcomes, identified several easily obtained blood-based biomarkers and some protein biomarkers related to innate and adaptive immune cells that associated with worse cognitive testing performance, smaller total or regional brain volumes, and higher risk of incident dementia.
