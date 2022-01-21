@@ -30,7 +30,7 @@ Dementia is multifactorial in etiology. [Alzheimer's disease (AD)](https://www.c
 
 ## Statistical Learning
 
-I develop new mixture models (and software) for cluster and classification analysis. Clustering can help with understanding which data observations are more similar to each other, and which are not. Data points similar to each other are grouped in a cluster together. Hence latent patterns or heterogeneity in the data can be revealed. I have a special interest in non-standard (non-Gaussian) data, specifically, compositional data. 
+I develop new mixture models (and software) for cluster and classification analysis. Clustering can help with understanding which data observations are more similar to each other, and which are not. Data points similar to each other are grouped in a cluster together, hence latent patterns or heterogeneity in the data can be revealed. I have a special interest in non-standard (non-Gaussian) data, specifically, compositional data. 
 
 * One important example of compositional data is the microbiome taxa count data obtained from RNAseq. The absolute counts do not provide much information due to potential difference in sequencing depth. Hence, the microbime taxa count can only reveal relative abundance -- viewing it as a whole (or using a mathematical term as ``on a simplex'') makes more sense.
 * We deveolop algorithms to cluster human microbiota composition: 
