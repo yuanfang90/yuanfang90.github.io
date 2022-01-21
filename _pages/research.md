@@ -32,7 +32,7 @@ Dementia is multifactorial in etiology. [Alzheimer's disease (AD)](https://www.c
 
 I develop new mixture models (and software) for cluster and classification analysis. Clustering can help with understanding which data observations are more similar to each other, and which are not. Data points similar to each other are grouped in a cluster together, hence latent patterns or heterogeneity in the data can be revealed. I have a special interest in non-standard (non-Gaussian) data, specifically, compositional data. 
 
-* One important example of compositional data is the microbiome taxa count data obtained from RNAseq. The absolute counts do not provide much information due to potential difference in sequencing depth. Hence, the microbime taxa count can only reveal relative abundance -- viewing it as a whole (or using a mathematical term as ``on a simplex'') makes more sense.
+* One important example of compositional data is the microbiome taxa count data obtained from RNAseq. The absolute counts do not provide much information due to potential difference in sequencing depth. Hence, the microbime taxa count can only reveal relative abundance -- viewing it as a whole (or using a mathematical term as "on a simplex") makes more sense.
 * We deveolop algorithms to cluster human microbiota composition: 
   * An R package has been developed to model and cluster microbiom data, which substantially lifted the heavy computational overhead in previous methods: [LNMVGA](https://github.com/yuanfang90/LNMVGA).
   * We are building mixture of regression models, hoping that other biomarkers could be taken into account when clustering microbiome data, so that we obtained more robust and more homogenous clusters.
