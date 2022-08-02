@@ -4,9 +4,10 @@ title: "Publications"
 author_profile: true
 ---
 
-### Accepted
+* **Fang, Y.**, Doyle, M., Alosco, M., Mez, J., Satizabal, C., Qiu, W., Lunetta, K., and Murabito, J., "Cross-sectional association between blood cell phenotypes, cognitive function and brain imaging measures in the community-based Framingham Heart Study". *J Alzheimers Dis.* 2022;87(3):1291-1305. doi: 10.3233/JAD-215533. PMID: 35431244
 
-* **Fang, Y.**, Doyle, M., Alosco, M., Mez, J., Satizabal, C., Qiu, W., Lunetta, K., and Murabito, J., "Cross-sectional association between blood cell phenotypes, cognitive function and brain imaging measures in the community-based Framingham Heart Study" (Accepted at *Journal of Alzheimer's Disease*).
+
+### Accepted
 
 * **Fang, Y.**, Karlis, D., Subedi, S., "Bayesian infinite mixtures of multivariate normal-inverse Gaussian distributions for clustering of skewed data" (Accepted at *Journal of Classification*). [arXiv:2005.05324](https://arxiv.org/abs/2005.05324)
 
