@@ -13,7 +13,10 @@ author_profile: true
 
 ### Submitted
 
-* **Fang, Y.**, Doyle, M., Chen, J., Alosco, M., Mez, J., Satizabal, C., Qiu, W., Murabito, J., and Lunetta, K., "Association between inflammatory biomarkers with cognitive aging". (Submitted to *Inflammation Research*)
+* **Fang, Y.**, Doyle, M., Chen, J., Alosco, M., Mez, J., Satizabal, C., Qiu, W., Murabito, J., and Lunetta, K., "Association between inflammatory biomarkers with cognitive aging". (Major revision at *PLOS ONE*)
+
+* * **Fang, Y.**, MacDonald, C., Clemens, P., Gordish-Dressman, H., Hoffman, E., and Dang, U., "Modeling early heterogeneous rates of progression in Duchenne muscular dystrophy boys". (Major revision at *Journal of Neuromuscular Disease*)
+
 
 ### Preprints
 
@@ -24,8 +27,6 @@ author_profile: true
 
 
 ### In Preparation 
-
-* **Fang, Y.**, MacDonald, C., Clemens, P., Gordish-Dressman, H., Hoffman, E., and Dang, U., "Modeling early heterogeneous rates of progression in Duchenne muscular dystrophy boys".
 
 * Franczak, B., **Fang, Y.**, and Subedi, S. "Bayesian parameter estimation for mixtures of shifted asymmetric Laplace distributions".
 
