@@ -5,7 +5,7 @@ author_profile: true
 ---
 * **Fang, Y.**, Doyle, M., Chen, J., Alosco, M., Mez, J., Satizabal, C., Qiu, W., Murabito, J., and Lunetta, K., "Association between inflammatory biomarkers with cognitive aging". *PloS one*. 2022 Sep 9;17(9):e0274350. [doi](10.1371/journal.pone.0274350). PMID: 36083988.
 
-* * **Fang, Y.**, Karlis, D., Subedi, S., ``Infinite Mixtures of Multivariate Normal-Inverse Gaussian Distributions for Clustering of Skewed Data''. *Journal of Classification*. 2022 Aug 23:1-43. [doi](https://doi.org/10.1007/s00357-022-09417-9).
+* **Fang, Y.**, Karlis, D., Subedi, S., ``Infinite Mixtures of Multivariate Normal-Inverse Gaussian Distributions for Clustering of Skewed Data''. *Journal of Classification*. 2022 Aug 23:1-43. [doi](https://doi.org/10.1007/s00357-022-09417-9).
 
 * **Fang, Y.**, Doyle, M., Alosco, M., Mez, J., Satizabal, C., Qiu, W., Lunetta, K., and Murabito, J., "Cross-sectional association between blood cell phenotypes, cognitive function and brain imaging measures in the community-based Framingham Heart Study". *J Alzheimers Dis.* 2022;87(3):1291-1305. [doi](10.3233/JAD-215533). PMID: 35431244.
 
