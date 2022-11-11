@@ -4,4 +4,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-Please find my CV [here](/files/cv_202211.pdf).
+Please find my up-to-date CV [here](/files/cv_202211.pdf).
