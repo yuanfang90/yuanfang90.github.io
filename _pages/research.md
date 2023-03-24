@@ -6,13 +6,6 @@ author_profile: true
 
 ## Application Fields
 
-### Duchenne muscular dystrophy
-
-[Duchenne muscular dystrophy (DMD)](https://www.parentprojectmd.org/about-duchenne/what-is-duchenne/about-duchenne-and-becker/) is X-linked, genetic disorder caused due to defects in the DMD gene, leading to abnormal dystrophin. I joined [Dr. Utkarsh Dang](https://sites.google.com/view/utkarshdang/home?authuser=0)'s research team on modeling DMD progression heterogeneity prior my post-doc training started, acted as a research assistant and data analyst. The collaboration with Dr. Dang's team is still ongoing.
-
-* We modeled the variability in DMD persons disease trajectories, identified three groups of early age DMD motor trajectories, with the moderate progression group showing the largest steroid effect.
-* We aim to build prognostic models on both natural history and clinical trial data for the DMD boys to predict future trajectories using statistical/machine learning algorithms.
-
 ### Dementia, cognitive impairment, and Alzheimer's disease 
 
 Dementia is multifactorial in etiology. [Alzheimer's disease (AD)](https://www.cdc.gov/aging/aginginfo/alzheimers.htm), the most prevalent dementia, is characterized by proteinopathies (amyloid-beta peptide (A$\beta$), pathologic tau) and neurodegeneration. Along with a multidisciplinary research team led by [Dr. Lunetta](https://www.bu.edu/sph/profile/kathryn-lunetta/) and [Dr. Murabito](https://www.bumc.bu.edu/busm/profile/joanne-murabito/), we are working on the following projects in the [Framingham Offspring Study (FHS)](https://framinghamheartstudy.org/).
@@ -24,6 +17,14 @@ Dementia is multifactorial in etiology. [Alzheimer's disease (AD)](https://www.c
 * Cognitive trajectories:
   * We modeled the heterogeneity and to identify patterns of cognitive trajectories across multiple domains.
   * We will investigate the association between risk factors for incident cognitive aging outcomes and the subclasses identified.
+
+### Duchenne muscular dystrophy
+
+[Duchenne muscular dystrophy (DMD)](https://www.parentprojectmd.org/about-duchenne/what-is-duchenne/about-duchenne-and-becker/) is X-linked, genetic disorder caused due to defects in the DMD gene, leading to abnormal dystrophin. I joined [Dr. Utkarsh Dang](https://sites.google.com/view/utkarshdang/home?authuser=0)'s research team on modeling DMD progression heterogeneity prior my post-doc training started, acted as a research assistant and data analyst. The collaboration with Dr. Dang's team is still ongoing.
+
+* We modeled the variability in DMD persons disease trajectories, identified three groups of early age DMD motor trajectories, with the moderate progression group showing the largest steroid effect.
+* We aim to build prognostic models on both natural history and clinical trial data for the DMD boys to predict future trajectories using statistical/machine learning algorithms.
+
 
 ## Statistical Learning
 
