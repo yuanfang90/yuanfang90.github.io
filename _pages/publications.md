@@ -4,8 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-* **Fang, Y.**, MacDonald, C., Clemens, P., Gordish-Dressman, H., Hoffman, E., and Dang, U., "Modeling early heterogeneous rates of progression in Duchenne muscular dystrophy boys". *Journal of Neuromuscular Diseases*. 2023 Feb 14. Epub ahead of print. [doi](10.3233/JND-221527). * **Fang, Y.**, MacDonald, C., Clemens, P., Gordish-Dressman, H., Hoffman, E., and Dang, U., "Modeling early heterogeneous rates of progression in Duchenne muscular dystrophy boys". *Journal of Neuromuscular Diseases*. 2023 Feb 14. Epub ahead of print. [doi](10.3233/JND-221527). \href{https://pubmed.ncbi.nlm.nih.gov/36806514/}{}.
-(https://pubmed.ncbi.nlm.nih.gov/36806514/).
+* **Fang, Y.**, MacDonald, C., Clemens, P., Gordish-Dressman, H., Hoffman, E., and Dang, U., "Modeling early heterogeneous rates of progression in Duchenne muscular dystrophy boys". *Journal of Neuromuscular Diseases*. 2023 Feb 14. Epub ahead of print. [doi](10.3233/JND-221527). * **Fang, Y.**, MacDonald, C., Clemens, P., Gordish-Dressman, H., Hoffman, E., and Dang, U., "Modeling early heterogeneous rates of progression in Duchenne muscular dystrophy boys". *Journal of Neuromuscular Diseases*. 2023 Feb 14. Epub ahead of print. [doi](10.3233/JND-221527).[PMID: 36806514](https://pubmed.ncbi.nlm.nih.gov/36806514/).
 
 * **Fang, Y.**, Doyle, M., Chen, J., Alosco, M., Mez, J., Satizabal, C., Qiu, W., Murabito, J., and Lunetta, K., "Association between inflammatory biomarkers with cognitive aging". *PloS one*. 2022 Sep 9;17(9):e0274350. [doi](10.1371/journal.pone.0274350). [PMID: 36083988](https://pubmed.ncbi.nlm.nih.gov/36083988/).
 
