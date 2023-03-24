@@ -1,10 +1,7 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /talks/
+title: "Presentations"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 ## Conferences presentations and talks
