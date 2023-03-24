@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a statistician and data scientist working on health outcomes, biomarkers, and statistical/machine learning with applications in bioinformatics. 
 
-I am a postdoctoral associate in the [Department of Biostatistics](https://www.bu.edu/sph/about/departments/biostatistics/) at [Boston University School of Public Health](https://www.bu.edu/sph/). I am a statistician and data scientist working on health outcomes, biomarkers, and statistical/machine learning with applications in bioinformatics. 
+I am an assistant professor of Biostatistics in the [Department of Phramceutical Sciences](https://www.binghamton.edu/pharmacy-and-pharmaceutical-sciences/departments/pharmaceutical-sciences/index.html) at [Binghamton University School of Pharmacy and Pharamceutical Sciences](https://www.binghamton.edu/pharmacy-and-pharmaceutical-sciences/). I also have a courtesy title at the [Department of Mathematics and Statistics](http://www2.math.binghamton.edu/p), where I received my PhD.
 
-At BU, I work with [Dr. Kathryn Lunetta](https://www.bu.edu/sph/profile/kathryn-lunetta/) and [Dr. Joanne Murabito](https://www.bumc.bu.edu/busm/profile/joanne-murabito/) on the project studying the role of peripheral immune cells in cognitive aging in the [Framingham Offspring Study](https://framinghamheartstudy.org/). We perform analyses to investigate associations between circulating immune cell phenotypes in the pro-inflammatory and regulatory pathways with cognitive decline, dementia and Alzheimer's disease. I also have an interest in modeling heterogeneity in cognitive function trajectories in the FHS participants.
+Before joinning Binghamton SOPPS I was a postdoctoral associate in the [Department of Biostatistics](https://www.bu.edu/sph/about/departments/biostatistics/) at [Boston University School of Public Health](https://www.bu.edu/sph/) under the supervision of [Dr. Kathryn Lunetta](https://www.bu.edu/sph/profile/kathryn-lunetta/) and [Dr. Joanne Murabito](https://www.bumc.bu.edu/busm/profile/joanne-murabito/). We perform analyses to investigate associations between circulating immune cell and inflammatory biomarkers with cognitive decline, dementia and Alzheimer's disease. 
 
-I received my PhD in Statistics from the [Department of Mathematical Sciences](https://www2.math.binghamton.edu/p) at [Binghamton University](https://www.binghamton.edu/) in 2020 under the guidance of [Dr. Sanjeena Dang (Subedi)](https://sites.google.com/view/sanjeena/home?authuser=0). My PhD dissertation focused on developing various model-based clustering algorithm for non-Gaussian data.
+I received my PhD in Mathematical Sciences with a concentration on Statistics in 2020 under the guidance of [Dr. Sanjeena Dang (Subedi)](https://sites.google.com/view/sanjeena/home?authuser=0). My PhD dissertation focused on developing various model-based clustering algorithm for non-Gaussian data.
 
 
 # Interest
@@ -20,15 +21,16 @@ I received my PhD in Statistics from the [Department of Mathematical Sciences](h
 * Model-based clustering
 * Variational inference
 * Microbiome data / compositional data
-* Nonparametric Bayesian
-* Logitudinal data analysis
-* Health outcomes, clinical trials, biomarkers, precision medicine
+* Longitudinal data and correlated data
+* Cognitive aging, dementia, Alzheimers disease
+* Duchenn Muscular Dystrophy
+
 
 
 # Contact Info
 
 <address>
-  Department of Biostatistics<br /> Boston University School of Public Health<br /> 801 Mass Avenue, Crosstown 3rd floor<br /> Boston, MA 02118
+  Department of Pharmaceutical Sciences<br /> Binghamton University SOPPS<br /> 96 Corliss Avenue, PB-315<br /> Johnson City, NY 13790
 </address>
 
-Email: yuanf@bu.edu
+Email: yfang8@binghamton.edu
