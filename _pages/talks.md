@@ -1,5 +1,5 @@
 ---
-permalink: /Presentations/
+permalink: /talks/
 title: "Presentations"
 author_profile: true
 ---
