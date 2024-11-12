@@ -24,7 +24,7 @@ I develop new mixture models (and software) for cluster and classification analy
 
 ### Dementia, cognitive impairment, and Alzheimer's disease 
 
-Dementia is multifactorial in etiology. [Alzheimer's disease (AD)](https://www.cdc.gov/aging/aginginfo/alzheimers.htm), the most prevalent dementia, is characterized by proteinopathies (amyloid-beta peptide (A`$\beta$`), pathologic tau) and neurodegeneration. 
+Dementia is multifactorial in etiology. [Alzheimer's disease (AD)](https://www.cdc.gov/aging/aginginfo/alzheimers.htm), the most prevalent dementia, is characterized by proteinopathies (amyloid-beta peptide, pathologic tau) and neurodegeneration. 
 
 My collaborator Dr. [Jayoung Han](https://www.fdu.edu/profiles/jayoung116_han/) and I are working on investigating the role of medication adherence, a novel non-invasive biomarker that is already a part of pharmacists' daily practice, as an effective predictor for early cognitive decline and developing predictive models that incorporate immigration status, medication adherence, and cognitive outcomes using publicly available data from the Health and Retirement Study. This work aims to provide equitable healthcare solutions by enhancing model sensitivity for different demographic groups. 
 
